@@ -1,0 +1,40 @@
+# tensorflow_conv #
+step 0, training accuracy 0.1
+step 100, training accuracy 0.84
+step 200, training accuracy 0.92
+step 300, training accuracy 0.98
+step 400, training accuracy 0.92
+step 500, training accuracy 0.98
+step 600, training accuracy 0.94
+step 700, training accuracy 0.9
+step 800, training accuracy 0.96
+step 900, training accuracy 0.94
+test accuracy 0.9671
+
+
+# tensorflow_init # 
+step 0, training accuracy 0.04
+step 100, training accuracy 0.78
+step 200, training accuracy 0.92
+step 300, training accuracy 0.92
+step 400, training accuracy 0.96
+step 500, training accuracy 0.92
+step 600, training accuracy 1
+step 700, training accuracy 0.94
+step 800, training accuracy 0.94
+step 900, training accuracy 1
+test accuracy 0.9726
+
+#tensorflow_sigmoid (Relu 적용안함 ) # 
+step 0, training accuracy 0.1
+step 100, training accuracy 0.08
+step 200, training accuracy 0.04
+step 300, training accuracy 0.06
+step 400, training accuracy 0.12
+step 500, training accuracy 0.12
+step 600, training accuracy 0.12
+step 700, training accuracy 0.12
+step 800, training accuracy 0.12
+step 900, training accuracy 0.06
+test accuracy 0.1135
+
